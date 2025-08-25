@@ -1,1 +1,5 @@
-# pythonstringAssignment
+This Python program asks the user to type a sentence and then lets them choose different string operations from a menu. The user can do things like reverse the sentence, count vowels, check palindromes, replace words, format text, split into words, see word frequency, and swap letter cases. The program keeps running until the user decides to exit.
+<img width="1362" height="706" alt="image" src="https://github.com/user-attachments/assets/aed2b8af-5d03-490c-b846-560d7ce51c12" />
+<img width="600" height="266" alt="image" src="https://github.com/user-attachments/assets/ac5be93b-1370-48e7-a3e1-2b6e9efe2349" />
+<img width="492" height="299" alt="image" src="https://github.com/user-attachments/assets/c5dac126-cdd2-461d-9a82-a4e45e313559" />
+My experience by doing this activity to be honest it's much easier than Java. Python is much easier to understand I was able to understand it's loop faster than java, I found it a bit confusing because I had some errors with indentation and logic, but I learned how to fix them step by step by asking AI. I'm just having a hard time at the beginning because it's my first time using python but overall, this assignment helped me understand loops, conditions, and working with text in a fun way.
